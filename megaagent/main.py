@@ -5,7 +5,7 @@ from argparse import Namespace
 
 import numpy as np
 
-from megaagent.agent import Agent
+from agent import Agent
 # from lux.config import EnvConfig
 from lux.kit import from_json
 ### DO NOT REMOVE THE FOLLOWING CODE ###
